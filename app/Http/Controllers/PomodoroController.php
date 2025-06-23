@@ -6,6 +6,9 @@ use App\Models\PomodoroSession;
 use Illuminate\Http\Request;
 use Carbon\Carbon;
 
+/**
+ * Summary of PomodoroController
+ */
 class PomodoroController extends Controller
 {
     public function index()
